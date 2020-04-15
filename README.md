@@ -19,4 +19,4 @@
 
 <img src="images/pair_plot.png" width="1000" >
 
-<img src="images/Salary/Scatter.png" width="1000" >
+<img src="images/Scatter.png" width="1000" >
