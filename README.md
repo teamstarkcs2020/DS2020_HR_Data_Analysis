@@ -17,6 +17,6 @@
 
 #### Distribution of some of the useful features
 
-<img src="images/pair_plot.png" width="1000" >
+<img src="images/pairplot.png" width="1000" >
 
 <img src="images/Scatter.png" width="1000" >
